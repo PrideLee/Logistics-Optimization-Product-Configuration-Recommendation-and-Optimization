@@ -1,1 +1,1 @@
-Click [**here**](https://github.com/PrideLee/Product-Configuration-Recommendation-and-Optimization/raw/master/Customized%20Products%20Recommendation%20Based%20on%20Probabilistic%20Relevance%20Model/Customized%20product%20recommendation%20based%20on%20probabilistic.pdf) to read full note about Customized Products Recommendation Base on Probabilistic Relevance Model.
+Click [**here**](https://pridelee.github.io/files/blog/Customized-Product-Recommendation.pdf) to read full note about Customized Products Recommendation Base on Probabilistic Relevance Model.
