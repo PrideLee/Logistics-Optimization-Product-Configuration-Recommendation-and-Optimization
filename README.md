@@ -1,4 +1,4 @@
-# Product-Configuration-Recommendation-and-Optimization
-Paper note about product configuration recommendation and optimization
+# Logistics-Optimization & Product-Configuration-Recommendation-and-Optimization
+Paper note about Logistics-Optimization and product configuration recommendation, optimization, created by Dang's team.
 
 - [Customized Product Recommendation Based On Probabilistic](https://pridelee.github.io/files/blog/Customized-Product-Recommendation.pdf)
