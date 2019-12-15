@@ -1,0 +1,1 @@
+The topic of the document I shared is A Risk-based Optimization Framework for Integrated Supply Chains Using Genetic Algorithm and Artificial Neural Networks. It was published in the International Journal of Production Economics in December 2019 and belongs to the journal of Engineering Technology Zone 2.
