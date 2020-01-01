@@ -360,10 +360,10 @@ $$
 R_B=R_B^{(P)}=Pr\{\xi\in\Xi\}\tag{14}
 $$
 
-&emsp;&emsp;If the state variable ξ degenerate to an uncertain variable, the belief reliability metric will be a belief degree. Let $R_B^(U)$ denotes the belief reliability under uncertainty theory. Then
+&emsp;&emsp;If the state variable ξ degenerate to an uncertain variable, the belief reliability metric will be a belief degree. Let $R_B^{(U)}$ denotes the belief reliability under uncertainty theory. Then
 
 $$
-R_B=R_B^{(U)}=\it{M}\{\xi\in\Xi\}\tag{14}
+R_B=R_B^{(U)}=\it{M}\{\xi\in\Xi\}\tag{15}
 $$
 
 &emsp;&emsp;This means the system is mainly influenced by epistemic uncertainty, and the belief reliability degenerate to the uncertainty theory-based reliability metric.
@@ -375,13 +375,13 @@ $$
 - Series connect. Assume an uncertain random system is simplified to be composed of a random subsystem with belief reliability $R_{B,R}^{(P)}(t)$ and an uncertain subsystem with belief reliability $R_{B,R}^{(U)}(t)$. If the two subsystems are connected in series, the system belief reliability $R_{B,S}(t)$ will be
 
 $$
-R_{B,S}(t)=R_{B,R}^{(P)}(t)\cdot R_{B,R}^{(U)}(t)\tag{15}
+R_{B,S}(t)=R_{B,R}^{(P)}(t)\cdot R_{B,R}^{(U)}(t)\tag{16}
 $$
 
 - Parallel connect. Assume an uncertain random system is simplified to be composed of a random subsystem with belief reliability $R_{B,R}^{(P)}$ and an uncertain subsystem with belief reliability $R_{B,U}^{(U)}$. If the two subsystems are connected in parallel, the system belief reliability will be
 
 $$
-R_{B,S}(t)=1-(1-R_{B,R}^{(P)}(t)) \cdot (1-R_{B,U}^{(U)}(t))\tag{16}
+R_{B,S}(t)=1-(1-R_{B,R}^{(P)}(t)) \cdot (1-R_{B,U}^{(U)}(t))\tag{17}
 $$
 
 ## 4.4 The framework of belief reliability
