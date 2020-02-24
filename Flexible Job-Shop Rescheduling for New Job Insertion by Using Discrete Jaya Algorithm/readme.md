@@ -1,0 +1,1 @@
+This paper presents a flexible Job shop scheduling problem with new Job insertion and discrete Jaya (DJaya) algorithms, focusing on a case study of multi-objective optimization with the goal of minimizing instability and minimizing completion-machine workload. 
