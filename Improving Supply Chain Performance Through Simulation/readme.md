@@ -1,0 +1,1 @@
+This study aims to improve the company's current practices by simulating its supply chain. This study proposes a discrete event simulation model to improve supply chain performance. The research idea of this paper is to collect data from the company, establish simulation models, generate scenarios, run simulations, compare results, and make suggestions.
