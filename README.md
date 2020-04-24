@@ -24,6 +24,6 @@ Paper notes about Logistics-Optimization and product configuration recommendatio
 - [Using real-time information to reschedule jobs in a flowshop with variable processing times](https://github.com/PrideLee/Logistics-Optimization-Product-Configuration-Recommendation-and-Optimization/blob/master/Using%20real-time%20information%20to%20reschedule%20jobs%20in%20a%20flowshop%20with%20variable%20processing%20times/Using%20real-time%20information%20to%20reschedule%20jobs%20in%20a%20flowshop%20with%20variable%20processing%20times.pdf)
 - [ICDM/ICBK 2019 Contest](https://pridelee.github.io/files/blog/ICDM-ICBK-Contest-2019.pdf)
 - [Optimizing Local Content Requirements Under Technology Gaps](https://github.com/PrideLee/Logistics-Optimization-Product-Configuration-Recommendation-and-Optimization/blob/master/Optimizing%20Local%20Content%20Requirements%20Under%20Technology%20Gaps/Optimizing%20Local%20Content%20Requirements%20Under%20Technology%20Gaps.pdf)
-
+- [Optimal Policies for a Dual-Sourcing Inventory Problem with Endogenous Stochastic Lead Times](https://github.com/PrideLee/Logistics-Optimization-Product-Configuration-Recommendation-and-Optimization/blob/master/Optimal%20Policies%20for%20a%20Dual-Sourcing%20Inventory%20Problem%20with%20Endogenous%20Stochastic%20Lead%20Times/Optimal%20Policies%20for%20a%20Dual-Sourcing%20Inventory%20Problem%20with%20Endogenous%20Stochastic%20Lead%20Times.pdf)
 
 You can also follow our [column](https://zhuanlan.zhihu.com/c_1175834071345958912) to enjoy more content.
