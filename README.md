@@ -27,5 +27,5 @@ Paper notes about Logistics-Optimization and product configuration recommendatio
 - [Optimal Policies for a Dual-Sourcing Inventory Problem with Endogenous Stochastic Lead Times](https://github.com/PrideLee/Logistics-Optimization-Product-Configuration-Recommendation-and-Optimization/blob/master/Optimal%20Policies%20for%20a%20Dual-Sourcing%20Inventory%20Problem%20with%20Endogenous%20Stochastic%20Lead%20Times/Optimal%20Policies%20for%20a%20Dual-Sourcing%20Inventory%20Problem%20with%20Endogenous%20Stochastic%20Lead%20Times.pdf)
 - [Mass Customization and “Forecasting Options’ Penetration Rates Problem”](https://github.com/PrideLee/Logistics-Optimization-Product-Configuration-Recommendation-and-Optimization/blob/master/Mass%20Customization%20and%20%E2%80%9CForecasting%20Options%E2%80%99%20Penetration%20Rates%20Problem%E2%80%9D/Mass%20Customization%20and%20%E2%80%9CForecasting%20Options%E2%80%99%20Penetration%20Rates%20Problem%E2%80%9D.pdf)
 - [A Survey of Recommendation System based on Knowledge Graph](https://pridelee.github.io/files/blog/RSKG-survey-2020.pdf)
-
+- [Words and Sentences Similarity Calculation (WMD&WRD)](https://pridelee.github.io/files/blog/Sentence-Similarity.pdf)
 You can also follow our [column](https://zhuanlan.zhihu.com/c_1175834071345958912) to enjoy more content.
