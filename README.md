@@ -28,5 +28,6 @@ Paper notes about Logistics-Optimization and product configuration recommendatio
 - [Mass Customization and “Forecasting Options’ Penetration Rates Problem”](https://github.com/PrideLee/Logistics-Optimization-Product-Configuration-Recommendation-and-Optimization/blob/master/Mass%20Customization%20and%20%E2%80%9CForecasting%20Options%E2%80%99%20Penetration%20Rates%20Problem%E2%80%9D/Mass%20Customization%20and%20%E2%80%9CForecasting%20Options%E2%80%99%20Penetration%20Rates%20Problem%E2%80%9D.pdf)
 - [A Survey of Recommendation System based on Knowledge Graph](https://pridelee.github.io/files/blog/RSKG-survey-2020.pdf)
 - [Words and Sentences Similarity Calculation (WMD&WRD)](https://pridelee.github.io/files/blog/Sentence-Similarity.pdf)
+- [Coordinating Supply and Demand on an On-Demand Service Platform with Impatient Customers](https://github.com/PrideLee/Logistics-Optimization-Product-Configuration-Recommendation-and-Optimization/blob/master/Coordinating%20Supply%20and%20Demand%20on%20an%20On-Demand%20Service%20Platform%20with%20Impatient%20Customers/Coordinating%20Supply%20and%20Demand%20on%20an%20On-Demand%20Service%20Platform%20with%20Impatient%20Customers.pdf)
 
 You can also follow our [column](https://zhuanlan.zhihu.com/c_1175834071345958912) to enjoy more content.
