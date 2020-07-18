@@ -29,5 +29,6 @@ Paper notes about Logistics-Optimization and product configuration recommendatio
 - [A Survey of Recommendation System based on Knowledge Graph](https://pridelee.github.io/files/blog/RSKG-survey-2020.pdf)
 - [Words and Sentences Similarity Calculation (WMD&WRD)](https://pridelee.github.io/files/blog/Sentence-Similarity.pdf)
 - [Coordinating Supply and Demand on an On-Demand Service Platform with Impatient Customers](https://github.com/PrideLee/Logistics-Optimization-Product-Configuration-Recommendation-and-Optimization/blob/master/Coordinating%20Supply%20and%20Demand%20on%20an%20On-Demand%20Service%20Platform%20with%20Impatient%20Customers/Coordinating%20Supply%20and%20Demand%20on%20an%20On-Demand%20Service%20Platform%20with%20Impatient%20Customers.pdf)
+- [Data Integration System](https://pridelee.github.io/files/blog/Data-integration-systems.pdf)
 
 You can also follow our [column](https://zhuanlan.zhihu.com/c_1175834071345958912) to enjoy more content.
