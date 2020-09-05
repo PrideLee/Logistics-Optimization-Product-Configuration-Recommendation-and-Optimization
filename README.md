@@ -31,5 +31,6 @@ Paper notes about Logistics-Optimization and product configuration recommendatio
 - [Coordinating Supply and Demand on an On-Demand Service Platform with Impatient Customers](https://github.com/PrideLee/Logistics-Optimization-Product-Configuration-Recommendation-and-Optimization/blob/master/Coordinating%20Supply%20and%20Demand%20on%20an%20On-Demand%20Service%20Platform%20with%20Impatient%20Customers/Coordinating%20Supply%20and%20Demand%20on%20an%20On-Demand%20Service%20Platform%20with%20Impatient%20Customers.pdf)
 - [Data Integration System](https://pridelee.github.io/files/blog/Data-integration-systems.pdf)
 - [A survey on deep transfer learning](https://pridelee.github.io/files/blog/Deep-transfer-learning-survey.pdf)
+- [Improved discrete cuckoo optimization algorithm for the three-stage assembly flowshop scheduling problem](https://github.com/PrideLee/Logistics-Optimization-Product-Configuration-Recommendation-and-Optimization/blob/master/Improved%20discrete%20cuckoo%20optimization%20algorithm%20for%20the%20three-stage%20assembly%20flowshop%20scheduling%20problem/Improved%20discrete%20cuckoo%20optimization%20algorithm%20for%20the%20three-stage%20assembly%20flowshop%20scheduling%20problem.pdf)
 
 You can also follow our [column](https://zhuanlan.zhihu.com/c_1175834071345958912) to enjoy more content.
