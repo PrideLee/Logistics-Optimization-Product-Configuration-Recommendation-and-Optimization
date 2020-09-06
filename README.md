@@ -33,4 +33,5 @@ Paper notes about Logistics-Optimization and product configuration recommendatio
 - [A survey on deep transfer learning](https://pridelee.github.io/files/blog/Deep-transfer-learning-survey.pdf)
 - [Improved discrete cuckoo optimization algorithm for the three-stage assembly flowshop scheduling problem](https://github.com/PrideLee/Logistics-Optimization-Product-Configuration-Recommendation-and-Optimization/blob/master/Improved%20discrete%20cuckoo%20optimization%20algorithm%20for%20the%20three-stage%20assembly%20flowshop%20scheduling%20problem/Improved%20discrete%20cuckoo%20optimization%20algorithm%20for%20the%20three-stage%20assembly%20flowshop%20scheduling%20problem.pdf)
 - [A Bayesian approach to demand forecasting for new equipment programs](https://github.com/PrideLee/Logistics-Optimization-Product-Configuration-Recommendation-and-Optimization/blob/master/A%20Bayesian%20approach%20to%20demand%20forecasting%20for%20new%20equipment%20programs/A%20Bayesian%20approach%20to%20demand%20forecasting%20for%20new%20equipment%20programs.pdf)
+
 You can also follow our [column](https://zhuanlan.zhihu.com/c_1175834071345958912) to enjoy more content.
