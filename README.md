@@ -1,5 +1,5 @@
 # Logistics-Optimization & Product-Configuration-Recommendation-and-Optimization
-Paper notes about Logistics-Optimization and product configuration recommendation, optimization, created by DangWei's team.
+Paper notes about Logistics-Optimization and product configuration recommendation, optimization, created by [DangWei's](http://people.ucas.ac.cn/~dangwei) group from [UCAS](https://www.ucas.ac.cn/), [CAS](http://www.csu.cas.cn/).
 
 ## Contents
 - [Customized Product Recommendation Based On Probabilistic](https://pridelee.github.io/files/blog/Customized-Product-Recommendation.pdf)
@@ -34,5 +34,6 @@ Paper notes about Logistics-Optimization and product configuration recommendatio
 - [Improved discrete cuckoo optimization algorithm for the three-stage assembly flowshop scheduling problem](https://github.com/PrideLee/Logistics-Optimization-Product-Configuration-Recommendation-and-Optimization/blob/master/Improved%20discrete%20cuckoo%20optimization%20algorithm%20for%20the%20three-stage%20assembly%20flowshop%20scheduling%20problem/Improved%20discrete%20cuckoo%20optimization%20algorithm%20for%20the%20three-stage%20assembly%20flowshop%20scheduling%20problem.pdf)
 - [A Bayesian approach to demand forecasting for new equipment programs](https://github.com/PrideLee/Logistics-Optimization-Product-Configuration-Recommendation-and-Optimization/blob/master/A%20Bayesian%20approach%20to%20demand%20forecasting%20for%20new%20equipment%20programs/A%20Bayesian%20approach%20to%20demand%20forecasting%20for%20new%20equipment%20programs.pdf)
 - [Constructing grey prediction models using grey relational analysis and neural networks for magnesium material demand forecasting](https://github.com/PrideLee/Logistics-Optimization-Product-Configuration-Recommendation-and-Optimization/blob/master/Constructing%20grey%20prediction%20models%20using%20grey%20relational%20analysis%20and%20neural%20networks%20for%20magnesium%20material%20demand%20forecasting/Constructing%20grey%20prediction%20models%20using%20grey%20relational%20analysis%20and%20neural%20networks%20for%20magnesium%20material%20demand%20forecasting%E6%96%87%E7%8C%AE%E5%88%86%E4%BA%AB.pdf)
+- [Automatic Keyphrase Extraction: A Review of the State of the Art.](https://pridelee.github.io/files/blog/Keyphrase-Extraction-Review.pdf)
 
 You can also follow our [column](https://zhuanlan.zhihu.com/c_1175834071345958912) to enjoy more content.
